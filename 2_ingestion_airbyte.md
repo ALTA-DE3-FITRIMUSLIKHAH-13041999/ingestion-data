@@ -30,7 +30,7 @@ Airbyte simplifies complex data integration processes. It offers a user-friendly
 ```
     # Postgresql credential
 
-    - Host: localhost:5432
+    - Host: localhost:5436
     - Username: posgres
     - Password: pass
     - DB: store
